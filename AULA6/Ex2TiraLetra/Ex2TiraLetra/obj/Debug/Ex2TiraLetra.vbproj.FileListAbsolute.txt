@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\bin\Debug\Ex2TiraLetra.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\bin\Debug\Ex2TiraLetra.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\bin\Debug\Ex2TiraLetra.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\bin\Debug\Ex2TiraLetra.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.frmTiraLetra.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex2TiraLetra\Ex2TiraLetra\obj\Debug\Ex2TiraLetra.pdb

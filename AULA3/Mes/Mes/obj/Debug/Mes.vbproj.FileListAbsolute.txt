@@ -1,0 +1,10 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\bin\Debug\Mes.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\bin\Debug\Mes.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\bin\Debug\Mes.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\bin\Debug\Mes.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.Form1.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Mes\Mes\obj\Debug\Mes.pdb

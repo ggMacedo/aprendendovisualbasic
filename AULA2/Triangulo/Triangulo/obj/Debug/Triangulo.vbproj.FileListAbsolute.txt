@@ -1,0 +1,14 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\bin\Debug\Triangulo.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.frmTriangulo.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

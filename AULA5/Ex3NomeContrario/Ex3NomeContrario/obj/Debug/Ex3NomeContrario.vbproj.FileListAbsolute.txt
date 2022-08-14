@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\bin\Debug\Ex3NomeContrario.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\bin\Debug\Ex3NomeContrario.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\bin\Debug\Ex3NomeContrario.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\bin\Debug\Ex3NomeContrario.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.frmEx3NomeContrario.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex3NomeContrario\Ex3NomeContrario\obj\Debug\Ex3NomeContrario.pdb

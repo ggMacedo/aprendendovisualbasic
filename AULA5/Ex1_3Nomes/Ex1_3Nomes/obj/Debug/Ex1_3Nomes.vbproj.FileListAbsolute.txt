@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\bin\Debug\Ex1_3Nomes.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\bin\Debug\Ex1_3Nomes.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\bin\Debug\Ex1_3Nomes.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\bin\Debug\Ex1_3Nomes.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.frmEx1_3Nomes.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex1_3Nomes\Ex1_3Nomes\obj\Debug\Ex1_3Nomes.pdb

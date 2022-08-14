@@ -1,0 +1,14 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\bin\Debug\NuMaioreseMenores.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\bin\Debug\NuMaioreseMenores.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\bin\Debug\NuMaioreseMenores.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\bin\Debug\NuMaioreseMenores.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.frmNumeros.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\bin\Debug\NuMaioreseMenores.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuMaioreseMenores\NuMaioreseMenores\obj\Debug\NuMaioreseMenores.pdb

@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\bin\Debug\Ex1ContaLetras.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\bin\Debug\Ex1ContaLetras.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\bin\Debug\Ex1ContaLetras.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\bin\Debug\Ex1ContaLetras.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.frmEx1ContaLetras.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex1ContaLetras\Ex1ContaLetras\obj\Debug\Ex1ContaLetras.pdb

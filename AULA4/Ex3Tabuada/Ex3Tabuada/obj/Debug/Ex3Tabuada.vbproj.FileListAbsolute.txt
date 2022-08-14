@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\bin\Debug\Ex3Tabuada.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\bin\Debug\Ex3Tabuada.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\bin\Debug\Ex3Tabuada.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\bin\Debug\Ex3Tabuada.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.frmEx3Tabuada.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex3Tabuada\Ex3Tabuada\obj\Debug\Ex3Tabuada.pdb

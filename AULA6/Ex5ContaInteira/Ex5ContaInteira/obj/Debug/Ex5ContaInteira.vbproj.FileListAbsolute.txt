@@ -1,0 +1,23 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.frmContaInteira.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\bin\Debug\Ex5ContaInteira.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.frmContaInteira.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex5ContaInteira\Ex5ContaInteira\obj\Debug\Ex5ContaInteira.vbprojResolveAssemblyReference.cache

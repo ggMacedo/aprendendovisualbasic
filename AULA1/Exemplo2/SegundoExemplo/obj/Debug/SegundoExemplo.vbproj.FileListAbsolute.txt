@@ -1,0 +1,14 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\bin\Debug\SegundoExemplo.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\bin\Debug\SegundoExemplo.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\bin\Debug\SegundoExemplo.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\bin\Debug\SegundoExemplo.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\SegundoExemplo\obj\Debug\SegundoExemplo.frmSOMA.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\bin\Debug\SegundoExemplo.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\obj\Debug\SegundoExemplo.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\obj\Debug\SegundoExemplo.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Exemplo2\SegundoExemplo\obj\Debug\SegundoExemplo.pdb

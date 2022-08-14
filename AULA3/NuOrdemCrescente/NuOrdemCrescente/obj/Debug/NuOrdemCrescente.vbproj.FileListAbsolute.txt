@@ -1,0 +1,14 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\bin\Debug\NuOrdemCrescente.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\bin\Debug\NuOrdemCrescente.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\bin\Debug\NuOrdemCrescente.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\bin\Debug\NuOrdemCrescente.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.frmNumerosCrescentes.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\bin\Debug\NuOrdemCrescente.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\NuOrdemCrescente\NuOrdemCrescente\obj\Debug\NuOrdemCrescente.pdb

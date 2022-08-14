@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\bin\Debug\Ex4Palindroma.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\bin\Debug\Ex4Palindroma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\bin\Debug\Ex4Palindroma.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\bin\Debug\Ex4Palindroma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.frmPalindroma.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex4Palindroma\Ex4Palindroma\obj\Debug\Ex4Palindroma.pdb

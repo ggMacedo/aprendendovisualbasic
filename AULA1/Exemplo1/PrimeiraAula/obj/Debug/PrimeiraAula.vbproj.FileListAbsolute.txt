@@ -1,0 +1,10 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Programa.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb

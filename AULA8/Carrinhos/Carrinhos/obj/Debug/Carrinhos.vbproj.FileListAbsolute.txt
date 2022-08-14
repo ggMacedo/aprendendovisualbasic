@@ -1,0 +1,35 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.frmCarrinhos.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.pdb
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe.config
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.pdb
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.xml
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbprojResolveAssemblyReference.cache
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.frmCarrinhos.resources
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.Resources.resources
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbproj.GenerateResource.cache
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbproj.CoreCompileInputs.cache
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.exe
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.xml
+E:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\bin\Debug\Carrinhos.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.frmCarrinhos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA8\Carrinhos\Carrinhos\obj\Debug\Carrinhos.pdb

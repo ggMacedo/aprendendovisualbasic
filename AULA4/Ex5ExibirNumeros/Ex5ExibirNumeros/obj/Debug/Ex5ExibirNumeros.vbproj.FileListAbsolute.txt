@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\bin\Debug\Ex5ExibirNumeros.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\bin\Debug\Ex5ExibirNumeros.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\bin\Debug\Ex5ExibirNumeros.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\bin\Debug\Ex5ExibirNumeros.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.frmEx5ExibirNumeros.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex5ExibirNumeros\Ex5ExibirNumeros\obj\Debug\Ex5ExibirNumeros.pdb

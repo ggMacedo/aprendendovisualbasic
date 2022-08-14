@@ -1,0 +1,22 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.frmContinentes.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\bin\Debug\Continentes.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.frmContinentes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA7\Continentes\Continentes\obj\Debug\Continentes.pdb

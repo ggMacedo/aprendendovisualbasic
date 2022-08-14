@@ -1,0 +1,13 @@
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\bin\Debug\ExCurso.exe.config
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\bin\Debug\ExCurso.exe
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\bin\Debug\ExCurso.pdb
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\bin\Debug\ExCurso.xml
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.vbprojAssemblyReference.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.frmInserir.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.frmCadastro.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.Resources.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.vbproj.GenerateResource.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.vbproj.CoreCompileInputs.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.exe
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.xml
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExCurso\ExCurso\obj\Debug\ExCurso.pdb

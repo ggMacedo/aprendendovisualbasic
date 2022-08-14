@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\bin\Debug\Ex2NomeVertical.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\bin\Debug\Ex2NomeVertical.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\bin\Debug\Ex2NomeVertical.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\bin\Debug\Ex2NomeVertical.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.frmEx2NomeVertical.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex2NomeVertical\Ex2NomeVertical\obj\Debug\Ex2NomeVertical.pdb

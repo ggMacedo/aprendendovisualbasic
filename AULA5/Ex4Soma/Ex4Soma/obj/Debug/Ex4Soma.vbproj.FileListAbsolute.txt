@@ -1,0 +1,22 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.frmEx4Soma.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\bin\Debug\Ex4Soma.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.vbprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.frmEx4Soma.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA5\Ex4Soma\Ex4Soma\obj\Debug\Ex4Soma.pdb

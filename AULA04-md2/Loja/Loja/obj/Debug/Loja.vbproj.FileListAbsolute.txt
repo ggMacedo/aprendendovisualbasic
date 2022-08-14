@@ -1,0 +1,35 @@
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.exe.config
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.exe
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.pdb
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.xml
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbprojAssemblyReference.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmDetalhesClientes.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmGridClientes.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmTelefone.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.Resources.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbproj.GenerateResource.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.exe
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.xml
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.pdb
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\bin\Debug\Loja.exe.config
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\bin\Debug\Loja.exe
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\bin\Debug\Loja.pdb
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\bin\Debug\Loja.xml
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.vbprojAssemblyReference.cache
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmDetalhesClientes.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmGridClientes.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmTelefone.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.Resources.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.vbproj.GenerateResource.cache
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.vbproj.CoreCompileInputs.cache
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.exe
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.xml
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.pdb
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmDetalhesVendedores.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmGridVendedores.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmDetalhesProdutos.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmDetalhesUsuarios.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmProdutos.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmUsuarios.resources
+E:\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA04\Loja\Loja\obj\Debug\Loja.frmMenuInicial.resources

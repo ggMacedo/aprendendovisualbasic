@@ -1,0 +1,13 @@
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.vbprojAssemblyReference.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.frmCadastro.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.frmInserirr.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.Resources.resources
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.vbproj.GenerateResource.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.vbproj.CoreCompileInputs.cache
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\bin\Debug\ExBanco.exe.config
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\bin\Debug\ExBanco.exe
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\bin\Debug\ExBanco.pdb
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\bin\Debug\ExBanco.xml
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.exe
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.xml
+E:\Arquivos\ETEC\Módulo 3\Desenvolvimento de Software 2\AULA02\ExBanco\ExBanco\obj\Debug\ExBanco.pdb

@@ -1,0 +1,38 @@
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\bin\Debug\Programa de média.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\bin\Debug\Programa de média.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\bin\Debug\Programa de média.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\bin\Debug\Programa de média.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa_de_média.frmProgramaMedia.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa_de_média.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa de média.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa de média.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa de média.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Média de notas\Programa de média\Programa de média\obj\Debug\Programa de média.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\bin\Debug\Programa de média.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\bin\Debug\Programa de média.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\bin\Debug\Programa de média.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\bin\Debug\Programa de média.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\bin\Debug\Programa de média.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa_de_média.frmProgramaMedia.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa_de_média.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA1\Programa de média\Programa de média\obj\Debug\Programa de média.vbproj.GenerateResource.Cache
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\bin\Debug\Programa de média.exe.config
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa de média.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa de média.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa de média.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\bin\Debug\Programa de média.exe
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\bin\Debug\Programa de média.pdb
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\bin\Debug\Programa de média.xml
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa_de_média.frmProgramaMedia.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa_de_média.Resources.resources
+G:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\Programa de média\Programa de média\obj\Debug\Programa de média.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Programa de média\Programa de média\bin\Debug\Programa de média.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Programa de média\Programa de média\obj\Debug\Programa de média.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Programa de média\Programa de média\obj\Debug\Programa de média.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA3\Programa de média\Programa de média\obj\Debug\Programa de média.pdb

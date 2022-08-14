@@ -1,0 +1,14 @@
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.exe.config
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.exe
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.pdb
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\bin\Debug\Loja.xml
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbprojAssemblyReference.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmDetalhesClientes.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmGridClientes.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.frmTelefone.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.Resources.resources
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbproj.GenerateResource.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.exe
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.xml
+E:\Arquivos\_2018\Aula\2º Sem\Itaquera\DSII\Loja\Loja\obj\Debug\Loja.pdb

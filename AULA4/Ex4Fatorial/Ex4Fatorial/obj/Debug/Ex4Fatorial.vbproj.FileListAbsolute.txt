@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\bin\Debug\Ex4Fatorial.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\bin\Debug\Ex4Fatorial.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\bin\Debug\Ex4Fatorial.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\bin\Debug\Ex4Fatorial.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.frmEx4Fatorial.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex4Fatorial\Ex4Fatorial\obj\Debug\Ex4Fatorial.pdb

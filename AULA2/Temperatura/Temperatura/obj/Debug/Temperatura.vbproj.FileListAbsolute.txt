@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.frmTemp.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\bin\Debug\Temperatura.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Temperatura\Temperatura\obj\Debug\Temperatura.pdb

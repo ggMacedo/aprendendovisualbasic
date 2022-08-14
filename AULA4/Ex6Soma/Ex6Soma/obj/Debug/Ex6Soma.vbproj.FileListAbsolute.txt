@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\bin\Debug\Ex6Soma.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\bin\Debug\Ex6Soma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\bin\Debug\Ex6Soma.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\bin\Debug\Ex6Soma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.frmExibirSoma.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA4\Ex6Soma\Ex6Soma\obj\Debug\Ex6Soma.pdb

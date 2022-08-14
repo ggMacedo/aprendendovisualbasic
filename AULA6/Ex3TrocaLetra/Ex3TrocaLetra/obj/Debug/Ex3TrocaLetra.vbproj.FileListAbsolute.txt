@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\bin\Debug\Ex3TrocaLetra.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\bin\Debug\Ex3TrocaLetra.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\bin\Debug\Ex3TrocaLetra.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\bin\Debug\Ex3TrocaLetra.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.frmTrocaLetraa.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA6\Ex3TrocaLetra\Ex3TrocaLetra\obj\Debug\Ex3TrocaLetra.pdb

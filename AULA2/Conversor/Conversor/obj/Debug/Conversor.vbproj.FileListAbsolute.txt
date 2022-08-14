@@ -1,0 +1,10 @@
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\bin\Debug\Conversor.exe.config
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.Resources.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.vbproj.GenerateResource.Cache
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.frmConversor.resources
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\bin\Debug\Conversor.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\bin\Debug\Conversor.pdb
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\bin\Debug\Conversor.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.exe
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.xml
+F:\Arquivos\ETEC\Módulo 2\Desenvolvimento de Software 1\AULA2\Conversor\Conversor\obj\Debug\Conversor.pdb
